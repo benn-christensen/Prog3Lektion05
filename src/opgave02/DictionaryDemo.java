@@ -1,8 +1,5 @@
 package opgave02;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class DictionaryDemo {
 
     static void main() {

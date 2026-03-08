@@ -6,7 +6,7 @@ import java.util.Map;
 public class DictionaryHashMap<K, V> implements Dictionary<K, V> {
 
     private Map<K, V>[] tabel;
-    private static int N = 13;
+    private static final int N = 13;
 
     /**
      * HashingMap constructor comment.
