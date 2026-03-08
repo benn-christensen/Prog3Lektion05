@@ -31,6 +31,3 @@ Lav endnu en implementation så `Dictionary` interfacet realiseres ved et array 
 Hvad er størrelsesordenen af tidskompleksiteten for de forskellige metoder?
 
 ---
-
-## Opgave 4
-Afleveringsopgave kan findes som selvstændig opgave på Canvas.
