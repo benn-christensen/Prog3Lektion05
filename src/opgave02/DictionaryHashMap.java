@@ -15,7 +15,7 @@ public class DictionaryHashMap<K, V> implements Dictionary<K, V> {
     public DictionaryHashMap() {
         tabel = new HashMap[N];
         for (int i = 0; i < N; i++) {
-            tabel[i] = new HashMap<K, V>();
+            tabel[i] = new HashMap<>();
         }
     }
 
